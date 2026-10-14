@@ -1,4 +1,4 @@
-]<h1 align="center"> 🛡️ EXVORTIGER 🛡️ </h1>
+<h1 align="center"> 🛡️ EXVORTIGER 🛡️ </h1>
 
 <p align="center">
   <b>FULLSTACK • PYTHON • HTML • CSS</b><br>
